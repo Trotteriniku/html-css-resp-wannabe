@@ -129,7 +129,14 @@ img {
  ************************************************/
  
 /* TABLET RESPONSIV */
-@media screen { 
-    
+@media screen and (max-width:768px){
+    .container{
+        max-width: 720px;
+    }
 }
 /* TABLET RESPONSIV */
+
+/* PHONE RESPONSIV */
+
+
+/* PHONE RESPONSIV */
