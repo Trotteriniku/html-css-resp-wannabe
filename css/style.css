@@ -132,6 +132,7 @@ img {
 @media screen and (max-width:768px){
     .container{
         max-width: 720px;
+        font-size: 0.9rem;
     }
 }
 /* TABLET RESPONSIV */
